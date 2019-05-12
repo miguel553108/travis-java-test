@@ -1,6 +1,6 @@
 language: java
 jdk: oraclejdk8
-after_success: echo "I'm done"
+after_success: echo "I'm done thx"
 
 notifications:
   email:
