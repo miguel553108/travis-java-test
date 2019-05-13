@@ -25,7 +25,7 @@ public class CalculatorTest {
 	@Test
 	public void testSub() {
 		Calculator calc = new Calculator();
-		assertEquals(calc.sub(1, 1), 0);
+		assertEquals(calc.sub(1, 2), 0);
 	}
 	@Test
 	public void testMul() {
